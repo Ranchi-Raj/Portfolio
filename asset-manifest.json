@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a35a21d8.css",
+    "main.js": "/Portfolio/static/js/main.1983086d.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Portfolio/static/js/787.d4aba7ab.chunk.js",
+    "static/media/mall.jpg": "/Portfolio/static/media/mall.489464e41b3f6c5063ab.jpg",
+    "static/media/dam.jpg": "/Portfolio/static/media/dam.31fbc4bc5f06b7d0b102.jpg",
+    "static/media/dam-night.jpg": "/Portfolio/static/media/dam-night.a783511ed5a8c8cb3c69.jpg",
+    "static/media/python.png": "/Portfolio/static/media/python.dea924d737bb84eb9ce3.png",
+    "static/media/bg_D.jpg": "/Portfolio/static/media/bg_D.901101df705d820f50f9.jpg",
+    "static/media/bg_day.jpg": "/Portfolio/static/media/bg_day.09d855fc3e5d0295cc99.jpg",
+    "static/media/C.png": "/Portfolio/static/media/C.bbbbbabc8c191bfb99bf.png",
+    "static/media/html.png": "/Portfolio/static/media/html.0f8b10c5fc9bc7805278.png",
+    "static/media/js.png": "/Portfolio/static/media/js.6b10805823ee818c8e78.png",
+    "index.html": "/Portfolio/index.html",
+    "main.a35a21d8.css.map": "/Portfolio/static/css/main.a35a21d8.css.map",
+    "main.1983086d.js.map": "/Portfolio/static/js/main.1983086d.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Portfolio/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a35a21d8.css",
+    "static/js/main.1983086d.js"
+  ]
+}
